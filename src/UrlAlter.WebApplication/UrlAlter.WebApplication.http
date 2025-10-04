@@ -1,0 +1,6 @@
+@UrlAlter.WebApplication_HostAddress = http://localhost:5045
+
+GET {{UrlAlter.WebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
